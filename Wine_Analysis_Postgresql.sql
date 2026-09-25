@@ -137,5 +137,5 @@ GROUP BY price_segment
 -- The business should primarily focus on the Low-price segment for growth,
 -- because it has the largest wine volume (82,451) and the highest Value Score (4.97),
 -- indicating strong value for customers.The Medium segment can support balanced growth,
--- while the Premium segment should be maintained for high-quality positioning 
+-- while the Premium segment should be maintained for high-quality positioning .
 -- because it has the highest average rating (91.3).
